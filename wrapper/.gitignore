@@ -1,0 +1,8 @@
+# Cython / setuptools 编译中间产物
+build/
+*.egg-info/
+_xdrfile.c
+*.pyd
+*.so
+*.dll
+*.obj
